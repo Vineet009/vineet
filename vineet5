@@ -1,2 +1,5 @@
 this is vineet5 from master because contains same data
 need to check how it is working
+deleting this line from the branch 2 which is available in master branch
+adding one more line which is not available in master 
+merge changes from branch2 and master
